@@ -1,0 +1,30 @@
+﻿EmpName
+PhoneNo
+Email
+Sex
+PermanentAddress
+PostalAddrress
+DOB
+
+
+DateOfJoining
+Designation
+Department
+Job location
+Reporting Manager
+Previous Employent   
+
+
+Education-
+School/College
+University
+Degree
+Course
+StartDate
+EndDate
+Precentage/CGPA
+
+
+
+
+
